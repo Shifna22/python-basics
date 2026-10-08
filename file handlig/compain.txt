@@ -1,0 +1,12 @@
+Name: shifna
+Attendance: A
+marks:80
+
+Name: fathima
+Attendance: B
+marks:90
+
+
+Name: anu
+Attendance: P
+marks:

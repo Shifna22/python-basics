@@ -1,0 +1,21 @@
+Order_ID,Customer,City,Category,Product,Quantity,Price,Discount,Order_Date,Payment_Method,Rating
+ORD1001,Arjun Nair,Kozhikode,Electronics,Wireless Earbuds,2,2499,10,2026-01-05,UPI,4
+ORD1002,Meera Menon,Kochi,Fashion,Cotton Kurti,3,799,15,2026-01-08,Credit Card,5
+ORD1003,Rahul Sharma,Delhi,Electronics,Smartwatch,1,4999,20,2026-01-12,Debit Card,4
+ORD1004,Priya Iyer,Chennai,Home & Kitchen,Mixer Grinder,1,3499,5,2026-01-15,Net Banking,3
+ORD1005,Sneha Reddy,Hyderabad,Books,Python Programming Book,2,599,0,2026-01-18,UPI,5
+ORD1006,Vikram Singh,Mumbai,Sports,Yoga Mat,2,899,10,2026-01-22,Cash on Delivery,4
+ORD1007,Anita Joseph,Thiruvananthapuram,Beauty,Face Serum,3,649,12,2026-01-25,UPI,4
+ORD1008,Karthik Raj,Bengaluru,Electronics,Bluetooth Speaker,1,1999,15,2026-02-02,Credit Card,3
+ORD1009,Fatima Khan,Kozhikode,Fashion,Denim Jacket,1,2299,25,2026-02-06,Debit Card,5
+ORD1010,Suresh Kumar,Coimbatore,Home & Kitchen,Air Fryer,1,5999,18,2026-02-10,Net Banking,4
+ORD1011,Divya Pillai,Kochi,Books,Fiction Novel,4,350,5,2026-02-14,UPI,5
+ORD1012,Amit Patel,Ahmedabad,Sports,Cricket Bat,1,2799,10,2026-02-19,Cash on Delivery,3
+ORD1013,Lakshmi Das,Kannur,Beauty,Hair Oil,2,299,0,2026-02-23,UPI,4
+ORD1014,Rohan Mehta,Pune,Electronics,Laptop Stand,2,1299,8,2026-03-01,Credit Card,4
+ORD1015,Neha Gupta,Delhi,Fashion,Running Shoes,1,3299,20,2026-03-05,Debit Card,5
+ORD1016,Joseph Mathew,Kottayam,Home & Kitchen,Water Bottle Set,3,499,5,2026-03-09,UPI,3
+ORD1017,Pooja Verma,Mumbai,Books,Self-Help Book,2,450,10,2026-03-14,Net Banking,4
+ORD1018,Sanjay Menon,Thrissur,Electronics,Power Bank,2,1599,12,2026-03-18,Cash on Delivery,2
+ORD1019,Ayesha Rahman,Bengaluru,Sports,Dumbbell Set,1,3999,15,2026-03-22,Credit Card,5
+ORD1020,Deepak Nambiar,Kozhikode,Beauty,Perfume,1,1899,10,2026-03-27,UPI,4
